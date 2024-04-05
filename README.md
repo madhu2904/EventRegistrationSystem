@@ -1,6 +1,6 @@
-## Getting Started
+# A JDBC Project
+ This is a hobby project built to learn JDBC a nd JSwing .only customer features are added so far admin features will be the future enhancement of this project.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
 
